@@ -1,4 +1,4 @@
-### Hi there 👋
+### If you are here, you should certainly review the usage of your free time
 
 <!--
 **Henrique-Gomes/Henrique-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
